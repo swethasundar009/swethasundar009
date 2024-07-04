@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/swethasundar009/student-portfolio-website](https://github.com/swethasundar009/student-portfolio-website)
+- 👨‍💻 All of my projects are available at [https://github.com/swethasundar009](https://github.com/swethasundar009)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, SQL, Python, MERN**
 
